@@ -1,0 +1,18 @@
+{
+  "name": "@nartallax/parcel-transformer-bin-as-uint8-array",
+  "version": "1.0.1",
+  "description": "Plugin for Parcel that embeds binary files as Uint8Array",
+  "main": "index.js",
+  "author": "Nartallax",
+  "license": "0BSD",
+  "scripts": {
+    "pub": "./publish.sh"
+  },
+  "engines": {
+    "parcel": ">= 2.8.2"
+  },
+  "devDependencies": {
+    "eslint": "^8.32.0",
+    "parcel-bundler": "^1.12.5"
+  }
+}
